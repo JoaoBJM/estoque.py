@@ -1,0 +1,1001 @@
+ID_Entrega,Centro_Distribuicao,Cidade_Destino,Estado_Destino,Distancia_km,Prazo_Entrega_dias,Capacidade_Caminhao_kg,Carga_kg,Data_Entrega,Status_Entrega
+1,Belém,Recife,PE,1608,5,6000,5978,2025-06-01,Pendente
+2,Brasília,Rio de Janeiro,RJ,1278,5,6000,1472,2025-06-01,Pendente
+3,São Paulo,Natal,RN,1491,5,12000,9763,2025-06-02,Em Trânsito
+4,São Paulo,Brasília,DF,1164,3,12000,4037,2025-06-04,Em Trânsito
+5,Belém,Porto Alegre,RS,997,1,8000,3976,2025-05-31,Agendado
+6,Recife,Manaus,AM,1825,3,10000,6935,2025-06-05,Pendente
+7,Recife,João Pessoa,PB,1050,4,12000,5289,2025-05-29,Agendado
+8,São Paulo,Belém,PA,2072,1,12000,10400,2025-06-05,Agendado
+9,Belém,São Luís,MA,560,1,8000,2821,2025-06-03,Entregue
+10,Brasília,Brasília,DF,469,2,6000,655,2025-06-04,Agendado
+11,Belém,Salvador,BA,826,5,12000,1216,2025-06-03,Em Trânsito
+12,Florianópolis,Brasília,DF,939,2,6000,2418,2025-06-03,Pendente
+13,São Paulo,Aparecida de Goiânia,GO,2287,4,12000,3629,2025-06-03,Em Trânsito
+14,Florianópolis,Curitiba,PR,695,5,8000,1670,2025-05-30,Agendado
+15,São Paulo,Aracaju,SE,2206,5,10000,3558,2025-06-01,Em Trânsito
+16,Recife,Macapá,AP,1814,7,10000,1219,2025-06-01,Pendente
+17,Brasília,Mossoró,RN,1854,7,12000,7903,2025-06-05,Pendente
+18,Brasília,Fortaleza,CE,1342,5,8000,3957,2025-06-03,Pendente
+19,Recife,Chapecó,SC,521,6,6000,4520,2025-06-02,Entregue
+20,Recife,Rio de Janeiro,RJ,1496,1,8000,5767,2025-06-01,Entregue
+21,Recife,Chapecó,SC,311,4,12000,3129,2025-05-31,Entregue
+22,Brasília,Campina Grande,PB,1438,5,10000,9859,2025-06-01,Em Trânsito
+23,Brasília,Nova Iguaçu,RJ,574,1,12000,10214,2025-06-04,Agendado
+24,São Paulo,Goiânia,GO,1279,3,6000,1501,2025-05-30,Pendente
+25,Recife,Niterói,RJ,848,2,12000,9624,2025-06-03,Pendente
+26,Florianópolis,Caruaru,PE,352,5,10000,6219,2025-05-29,Agendado
+27,Florianópolis,Nova Iguaçu,RJ,2138,5,6000,3409,2025-06-01,Em Trânsito
+28,São Paulo,Maringá,PR,2483,7,8000,2889,2025-06-03,Agendado
+29,São Paulo,São Luís,MA,204,3,12000,11014,2025-05-29,Em Trânsito
+30,São Paulo,Ananindeua,PA,2475,7,12000,7745,2025-05-29,Pendente
+31,São Paulo,Boa Vista,RR,350,3,6000,752,2025-06-02,Pendente
+32,Belém,Joinville,SC,2228,1,12000,743,2025-05-30,Agendado
+33,Brasília,Caruaru,PE,1355,5,6000,1243,2025-05-29,Pendente
+34,São Paulo,Maceió,AL,1709,6,10000,5942,2025-05-29,Pendente
+35,Brasília,Campinas,SP,1756,7,8000,4403,2025-06-02,Agendado
+36,Recife,Ribeirão Preto,SP,2360,1,10000,6674,2025-05-29,Entregue
+37,Recife,Aracaju,SE,1646,7,10000,5247,2025-06-01,Em Trânsito
+38,Recife,Ribeirão Preto,SP,235,3,6000,2340,2025-06-05,Entregue
+39,Brasília,Feira de Santana,BA,2165,5,8000,5631,2025-05-30,Em Trânsito
+40,São Paulo,Natal,RN,420,1,6000,1721,2025-06-05,Entregue
+41,Brasília,Ananindeua,PA,1341,3,10000,2066,2025-06-02,Em Trânsito
+42,Recife,Caxias do Sul,RS,1620,4,8000,6777,2025-06-03,Entregue
+43,Recife,Olinda,PE,1440,5,6000,5347,2025-06-05,Agendado
+44,Brasília,Pelotas,RS,1677,4,12000,6632,2025-05-30,Entregue
+45,Belém,Salvador,BA,1019,6,12000,2717,2025-06-02,Em Trânsito
+46,Recife,Uberlândia,MG,1860,4,6000,5528,2025-05-31,Entregue
+47,São Paulo,Santos,SP,693,5,10000,8468,2025-06-02,Agendado
+48,Belém,Manaus,AM,2272,2,12000,6561,2025-05-31,Pendente
+49,Belém,Macapá,AP,1357,5,10000,7462,2025-06-01,Agendado
+50,Brasília,Macapá,AP,2240,7,10000,1394,2025-06-05,Entregue
+51,Belém,São Luís,MA,1298,5,10000,8263,2025-06-01,Pendente
+52,Florianópolis,Caxias do Sul,RS,1574,5,6000,2782,2025-06-02,Entregue
+53,Recife,Salvador,BA,425,6,10000,6543,2025-06-03,Pendente
+54,Brasília,Mossoró,RN,798,1,8000,6221,2025-06-02,Agendado
+55,Brasília,Nova Iguaçu,RJ,2121,4,10000,2852,2025-05-29,Entregue
+56,Belém,Caucaia,CE,1506,4,6000,2746,2025-06-02,Agendado
+57,Florianópolis,Manaus,AM,2030,5,10000,5971,2025-06-04,Entregue
+58,Florianópolis,Nova Iguaçu,RJ,552,7,12000,6291,2025-06-05,Pendente
+59,Recife,Boa Vista,RR,1616,5,6000,1658,2025-06-05,Entregue
+60,Recife,Campina Grande,PB,2049,3,8000,4289,2025-05-31,Em Trânsito
+61,Recife,João Pessoa,PB,2385,5,8000,6536,2025-05-29,Pendente
+62,São Paulo,Campina Grande,PB,1211,7,8000,1550,2025-05-31,Agendado
+63,Belém,Olinda,PE,381,1,8000,2734,2025-05-29,Entregue
+64,Brasília,Maceió,AL,2234,5,12000,2988,2025-06-04,Em Trânsito
+65,Florianópolis,São Luís,MA,2111,5,6000,794,2025-05-31,Em Trânsito
+66,Recife,Feira de Santana,BA,1978,6,12000,6499,2025-05-30,Agendado
+67,Brasília,Boa Vista,RR,1626,5,10000,3258,2025-05-29,Em Trânsito
+68,São Paulo,Londrina,PR,1493,5,10000,3259,2025-06-02,Pendente
+69,São Paulo,Chapecó,SC,1549,3,12000,3768,2025-06-01,Pendente
+70,Florianópolis,Maceió,AL,545,4,10000,4965,2025-06-03,Entregue
+71,Belém,Feira de Santana,BA,1875,7,8000,683,2025-06-03,Entregue
+72,Recife,Boa Vista,RR,1678,6,6000,4990,2025-06-05,Entregue
+73,São Paulo,Uberlândia,MG,1742,1,12000,6115,2025-06-04,Entregue
+74,São Paulo,Olinda,PE,1588,2,8000,2879,2025-06-02,Agendado
+75,Belém,Vitória da Conquista,BA,1425,1,6000,5782,2025-06-01,Agendado
+76,Brasília,Rio de Janeiro,RJ,2288,2,8000,3450,2025-05-29,Pendente
+77,São Paulo,Belém,PA,2399,7,12000,7544,2025-06-01,Em Trânsito
+78,Brasília,Maceió,AL,1621,3,6000,3609,2025-06-03,Entregue
+79,Belém,Brasília,DF,2215,1,6000,2995,2025-06-02,Pendente
+80,Belém,Aracaju,SE,2485,7,6000,3395,2025-06-02,Em Trânsito
+81,Brasília,Belém,PA,1799,7,12000,669,2025-05-31,Agendado
+82,São Paulo,Fortaleza,CE,1141,2,8000,3540,2025-06-05,Agendado
+83,Recife,Boa Vista,RR,2467,4,10000,1229,2025-06-01,Em Trânsito
+84,Recife,Manaus,AM,235,6,6000,802,2025-05-31,Pendente
+85,Belém,Rio de Janeiro,RJ,1223,4,8000,5685,2025-05-30,Entregue
+86,São Paulo,Chapecó,SC,939,1,12000,10237,2025-06-02,Entregue
+87,Recife,Blumenau,SC,1237,6,6000,1527,2025-06-04,Agendado
+88,São Paulo,Caucaia,CE,171,1,12000,10015,2025-05-30,Entregue
+89,São Paulo,Pelotas,RS,1576,7,10000,668,2025-06-01,Agendado
+90,São Paulo,Chapecó,SC,1021,1,8000,3903,2025-06-03,Entregue
+91,Recife,São Luís,MA,2086,7,8000,3440,2025-05-29,Pendente
+92,Recife,Natal,RN,698,1,6000,4817,2025-06-05,Agendado
+93,Brasília,Maceió,AL,720,2,6000,1864,2025-06-02,Em Trânsito
+94,Recife,São Luís,MA,440,6,12000,10637,2025-06-04,Pendente
+95,Florianópolis,Aparecida de Goiânia,GO,1328,2,8000,2405,2025-05-29,Agendado
+96,Florianópolis,Niterói,RJ,1875,1,12000,9689,2025-05-31,Pendente
+97,Florianópolis,Aracaju,SE,2112,2,6000,5761,2025-05-31,Pendente
+98,Florianópolis,Boa Vista,RR,1593,6,6000,5120,2025-06-05,Entregue
+99,Brasília,Manaus,AM,1266,6,6000,3441,2025-05-29,Entregue
+100,Recife,Pelotas,RS,387,4,10000,6785,2025-05-31,Pendente
+101,Florianópolis,Manaus,AM,1153,6,12000,1752,2025-05-30,Pendente
+102,Recife,Fortaleza,CE,1021,3,12000,9534,2025-06-01,Entregue
+103,Recife,Pelotas,RS,2320,2,8000,5236,2025-06-05,Agendado
+104,Florianópolis,Ribeirão Preto,SP,1702,3,12000,3631,2025-06-03,Pendente
+105,Recife,Boa Vista,RR,586,2,12000,11321,2025-05-30,Entregue
+106,São Paulo,Recife,PE,1915,1,6000,4106,2025-05-30,Pendente
+107,São Paulo,Aracaju,SE,1038,7,12000,6502,2025-06-02,Entregue
+108,Belém,João Pessoa,PB,2083,1,12000,7252,2025-05-30,Agendado
+109,Recife,Boa Vista,RR,1704,7,6000,2793,2025-06-03,Agendado
+110,Belém,Boa Vista,RR,269,7,8000,6364,2025-06-01,Agendado
+111,Brasília,João Pessoa,PB,554,1,10000,2499,2025-06-04,Pendente
+112,Brasília,Chapecó,SC,1222,2,8000,4973,2025-05-31,Pendente
+113,São Paulo,Macapá,AP,124,7,10000,7924,2025-05-30,Agendado
+114,Brasília,Campina Grande,PB,1768,1,6000,2710,2025-05-29,Em Trânsito
+115,Recife,Contagem,MG,1658,3,6000,3561,2025-05-31,Em Trânsito
+116,São Paulo,Maceió,AL,2419,2,6000,2241,2025-06-01,Pendente
+117,Belém,João Pessoa,PB,1999,6,6000,1209,2025-06-05,Pendente
+118,Florianópolis,João Pessoa,PB,1209,4,12000,7489,2025-06-05,Pendente
+119,São Paulo,Aracaju,SE,1756,5,6000,3426,2025-06-04,Pendente
+120,Belém,Maceió,AL,922,6,12000,2667,2025-05-29,Agendado
+121,Brasília,Manaus,AM,1955,1,10000,9271,2025-06-04,Agendado
+122,Recife,Manaus,AM,221,3,8000,3992,2025-05-30,Agendado
+123,Recife,Blumenau,SC,406,1,6000,4762,2025-06-01,Entregue
+124,Brasília,Goiânia,GO,1666,2,8000,1266,2025-05-29,Em Trânsito
+125,Belém,São Luís,MA,381,3,6000,3853,2025-05-29,Pendente
+126,Belém,São Luís,MA,1113,1,8000,707,2025-06-04,Entregue
+127,Recife,Curitiba,PR,1645,3,10000,6441,2025-06-01,Pendente
+128,Recife,Anápolis,GO,1537,7,8000,4899,2025-06-02,Em Trânsito
+129,São Paulo,Manaus,AM,2126,1,8000,6375,2025-05-30,Entregue
+130,Belém,Ananindeua,PA,2491,3,10000,2300,2025-06-01,Entregue
+131,Florianópolis,Rio de Janeiro,RJ,216,7,12000,5783,2025-05-31,Pendente
+132,Florianópolis,Aracaju,SE,272,5,6000,5597,2025-06-01,Agendado
+133,Belém,Aparecida de Goiânia,GO,535,5,10000,9086,2025-05-30,Em Trânsito
+134,Belém,Ribeirão Preto,SP,1550,4,10000,3087,2025-05-29,Entregue
+135,São Paulo,Recife,PE,2451,3,10000,3973,2025-05-30,Pendente
+136,Belém,Boa Vista,RR,787,2,8000,5188,2025-06-02,Entregue
+137,Florianópolis,Boa Vista,RR,1907,1,8000,7550,2025-06-05,Entregue
+138,Belém,Caucaia,CE,1823,7,12000,3313,2025-05-31,Em Trânsito
+139,Belém,Blumenau,SC,1251,4,8000,2332,2025-06-02,Em Trânsito
+140,Florianópolis,Aracaju,SE,2179,2,8000,5360,2025-05-29,Agendado
+141,São Paulo,Boa Vista,RR,1995,7,8000,7932,2025-05-29,Em Trânsito
+142,Recife,Fortaleza,CE,1986,6,8000,3176,2025-05-29,Pendente
+143,São Paulo,Salvador,BA,428,6,6000,1686,2025-06-05,Em Trânsito
+144,Florianópolis,Brasília,DF,580,6,12000,10077,2025-06-04,Agendado
+145,Belém,Feira de Santana,BA,1334,5,8000,6993,2025-06-05,Agendado
+146,Belém,Feira de Santana,BA,1731,1,12000,1519,2025-06-05,Em Trânsito
+147,Florianópolis,Aracaju,SE,104,3,8000,6112,2025-05-31,Pendente
+148,Florianópolis,Joinville,SC,1302,2,8000,1650,2025-05-29,Em Trânsito
+149,São Paulo,Maceió,AL,1724,1,8000,4461,2025-06-01,Agendado
+150,São Paulo,Santos,SP,409,2,6000,2661,2025-05-30,Agendado
+151,Recife,Nova Iguaçu,RJ,469,3,12000,1006,2025-05-31,Em Trânsito
+152,Brasília,Natal,RN,1068,4,8000,4498,2025-05-30,Em Trânsito
+153,Recife,Aracaju,SE,1844,1,12000,11295,2025-06-01,Agendado
+154,Florianópolis,São Luís,MA,254,5,12000,8902,2025-06-03,Agendado
+155,São Paulo,Aparecida de Goiânia,GO,122,6,6000,860,2025-06-05,Entregue
+156,São Paulo,São Luís,MA,90,7,10000,4416,2025-06-01,Em Trânsito
+157,Florianópolis,Salvador,BA,1582,4,10000,1397,2025-06-04,Entregue
+158,Recife,Manaus,AM,1426,3,10000,5685,2025-05-30,Pendente
+159,Florianópolis,Macapá,AP,2016,4,10000,5384,2025-05-31,Agendado
+160,Recife,Blumenau,SC,373,3,6000,4354,2025-05-30,Agendado
+161,Brasília,Macapá,AP,1186,6,12000,6717,2025-06-04,Entregue
+162,Brasília,Recife,PE,716,6,12000,6541,2025-06-03,Agendado
+163,Recife,Macapá,AP,2223,5,12000,8515,2025-06-02,Agendado
+164,São Paulo,Londrina,PR,2344,3,12000,4099,2025-06-03,Em Trânsito
+165,São Paulo,Goiânia,GO,2149,4,12000,7863,2025-06-03,Pendente
+166,São Paulo,Belém,PA,2426,5,10000,1338,2025-05-29,Entregue
+167,Recife,Recife,PE,684,2,10000,8009,2025-05-29,Entregue
+168,Belém,Aracaju,SE,1646,6,8000,3487,2025-06-03,Agendado
+169,Belém,Brasília,DF,293,2,6000,5213,2025-05-31,Pendente
+170,Recife,Ananindeua,PA,1449,7,8000,3054,2025-05-31,Entregue
+171,Recife,Aracaju,SE,1033,4,8000,4565,2025-05-29,Agendado
+172,São Paulo,Campina Grande,PB,812,6,10000,6829,2025-06-01,Agendado
+173,Florianópolis,Nova Iguaçu,RJ,2177,3,12000,3186,2025-05-30,Pendente
+174,Recife,Manaus,AM,762,7,12000,10798,2025-05-31,Em Trânsito
+175,Brasília,Niterói,RJ,2203,6,8000,752,2025-06-04,Em Trânsito
+176,Belém,Mossoró,RN,630,7,12000,8163,2025-06-05,Agendado
+177,Florianópolis,Rio de Janeiro,RJ,1445,6,6000,5033,2025-06-02,Agendado
+178,Brasília,Caucaia,CE,1176,2,8000,1023,2025-06-05,Entregue
+179,São Paulo,Vitória da Conquista,BA,601,1,6000,2145,2025-06-03,Em Trânsito
+180,Florianópolis,Mossoró,RN,1832,6,12000,2943,2025-05-30,Agendado
+181,Florianópolis,Salvador,BA,1781,3,8000,4007,2025-06-03,Em Trânsito
+182,Belém,Belém,PA,2487,7,8000,6122,2025-06-03,Entregue
+183,Brasília,Caxias do Sul,RS,1172,2,12000,3407,2025-05-30,Pendente
+184,Florianópolis,Uberlândia,MG,2063,5,8000,1571,2025-06-01,Agendado
+185,Belém,Brasília,DF,2085,7,8000,1657,2025-05-31,Agendado
+186,Florianópolis,Campinas,SP,1057,3,12000,11508,2025-06-01,Pendente
+187,Brasília,Olinda,PE,1659,4,6000,4987,2025-06-05,Agendado
+188,Brasília,Campina Grande,PB,1141,4,6000,3078,2025-06-04,Agendado
+189,Brasília,Caucaia,CE,795,3,6000,2505,2025-06-03,Pendente
+190,Brasília,Olinda,PE,2120,1,10000,7638,2025-06-05,Em Trânsito
+191,São Paulo,João Pessoa,PB,1976,4,8000,4505,2025-06-03,Entregue
+192,Florianópolis,Ananindeua,PA,591,5,12000,2235,2025-06-04,Pendente
+193,Belém,Maceió,AL,232,2,6000,1825,2025-05-30,Pendente
+194,Recife,Ananindeua,PA,1253,3,10000,3515,2025-05-29,Agendado
+195,Belém,Brasília,DF,1120,7,6000,5976,2025-06-05,Entregue
+196,Belém,Campinas,SP,266,7,6000,4849,2025-05-31,Agendado
+197,Brasília,Maringá,PR,2080,3,12000,5434,2025-06-03,Pendente
+198,Florianópolis,Maceió,AL,1552,5,10000,3967,2025-06-04,Pendente
+199,Brasília,Contagem,MG,2263,6,8000,1966,2025-06-04,Pendente
+200,Brasília,Aracaju,SE,672,6,12000,11038,2025-05-30,Em Trânsito
+201,Brasília,Aracaju,SE,796,4,6000,626,2025-06-04,Pendente
+202,Recife,Nova Iguaçu,RJ,850,1,6000,1235,2025-05-31,Agendado
+203,Belém,Natal,RN,102,1,10000,7602,2025-05-31,Entregue
+204,São Paulo,Caruaru,PE,1444,1,12000,9300,2025-06-03,Agendado
+205,Florianópolis,Manaus,AM,737,3,6000,3885,2025-06-04,Agendado
+206,Florianópolis,Ananindeua,PA,889,6,8000,1902,2025-06-02,Em Trânsito
+207,Brasília,São Luís,MA,767,4,12000,6280,2025-06-04,Pendente
+208,Brasília,Chapecó,SC,1415,4,6000,3662,2025-05-29,Agendado
+209,Florianópolis,Ananindeua,PA,199,7,8000,7294,2025-05-29,Entregue
+210,Florianópolis,Niterói,RJ,2458,7,8000,1384,2025-05-31,Agendado
+211,Florianópolis,João Pessoa,PB,1213,6,8000,6363,2025-05-30,Pendente
+212,Recife,São Luís,MA,2476,4,6000,2736,2025-06-02,Agendado
+213,Brasília,Contagem,MG,2209,5,12000,2869,2025-05-31,Entregue
+214,Brasília,Porto Alegre,RS,2327,3,12000,3562,2025-06-03,Entregue
+215,Brasília,Ribeirão Preto,SP,1404,2,6000,3123,2025-06-02,Pendente
+216,Florianópolis,Belo Horizonte,MG,2396,6,12000,2095,2025-06-05,Entregue
+217,Brasília,Brasília,DF,1931,7,12000,3322,2025-06-03,Pendente
+218,São Paulo,João Pessoa,PB,218,5,12000,3288,2025-05-29,Entregue
+219,Florianópolis,Aracaju,SE,165,5,10000,3685,2025-06-03,Entregue
+220,Florianópolis,Maringá,PR,2121,5,12000,10801,2025-05-29,Pendente
+221,Recife,Caucaia,CE,636,6,10000,5581,2025-05-31,Agendado
+222,Brasília,Macapá,AP,2424,4,10000,1872,2025-06-01,Agendado
+223,Belém,Ribeirão Preto,SP,1313,1,8000,2548,2025-06-02,Entregue
+224,São Paulo,Boa Vista,RR,2411,7,6000,1076,2025-06-05,Entregue
+225,Belém,Macapá,AP,1438,5,8000,6455,2025-06-03,Em Trânsito
+226,Brasília,Uberlândia,MG,405,4,8000,7005,2025-06-05,Agendado
+227,Recife,Manaus,AM,1738,6,10000,7592,2025-06-02,Agendado
+228,Brasília,Belém,PA,1985,3,10000,1504,2025-06-04,Agendado
+229,Florianópolis,Belém,PA,1908,1,10000,1985,2025-06-01,Entregue
+230,Florianópolis,Campina Grande,PB,1694,1,10000,959,2025-05-29,Entregue
+231,Florianópolis,Boa Vista,RR,2282,1,8000,7137,2025-06-04,Em Trânsito
+232,São Paulo,Contagem,MG,983,4,10000,1981,2025-06-03,Agendado
+233,Brasília,Brasília,DF,2328,4,10000,648,2025-06-04,Em Trânsito
+234,Brasília,Maceió,AL,1182,3,12000,11059,2025-06-01,Entregue
+235,Brasília,São Luís,MA,2487,2,12000,8273,2025-05-31,Pendente
+236,Brasília,Caxias do Sul,RS,2094,4,12000,3342,2025-05-30,Pendente
+237,Belém,Olinda,PE,340,7,10000,1490,2025-05-30,Entregue
+238,Florianópolis,Joinville,SC,2245,6,10000,1119,2025-06-03,Entregue
+239,São Paulo,Niterói,RJ,636,1,6000,3453,2025-06-04,Entregue
+240,São Paulo,Campina Grande,PB,1166,2,6000,2592,2025-06-03,Entregue
+241,Florianópolis,Salvador,BA,283,3,8000,3976,2025-06-01,Em Trânsito
+242,São Paulo,Maceió,AL,875,7,12000,4474,2025-06-03,Pendente
+243,Belém,João Pessoa,PB,129,5,12000,11466,2025-06-01,Em Trânsito
+244,Belém,Aracaju,SE,555,7,8000,1898,2025-06-01,Em Trânsito
+245,Recife,Maceió,AL,551,2,6000,5701,2025-06-05,Entregue
+246,Florianópolis,Uberlândia,MG,401,4,6000,1138,2025-06-05,Em Trânsito
+247,Florianópolis,Campina Grande,PB,737,4,8000,3150,2025-05-30,Em Trânsito
+248,Brasília,Olinda,PE,2105,6,6000,5885,2025-05-30,Pendente
+249,Belém,Fortaleza,CE,2135,4,12000,5006,2025-06-04,Pendente
+250,Florianópolis,Natal,RN,378,1,6000,810,2025-05-29,Em Trânsito
+251,Florianópolis,Maceió,AL,2100,1,10000,6278,2025-06-01,Agendado
+252,Florianópolis,São Luís,MA,1752,5,8000,7657,2025-06-03,Agendado
+253,Recife,São Luís,MA,1427,5,8000,3489,2025-05-31,Pendente
+254,Recife,Aracaju,SE,1918,1,8000,4208,2025-05-30,Entregue
+255,Florianópolis,Caruaru,PE,304,4,10000,7692,2025-05-29,Entregue
+256,Brasília,Blumenau,SC,691,1,10000,8948,2025-05-31,Em Trânsito
+257,Florianópolis,Pelotas,RS,1307,7,8000,6629,2025-06-04,Entregue
+258,São Paulo,São Luís,MA,1298,5,10000,3531,2025-06-05,Entregue
+259,Recife,Maceió,AL,1215,3,8000,7596,2025-05-29,Agendado
+260,Belém,Nova Iguaçu,RJ,1320,6,12000,2597,2025-05-31,Entregue
+261,Brasília,Porto Alegre,RS,1746,5,6000,2718,2025-06-03,Entregue
+262,Recife,Maceió,AL,2016,3,6000,2718,2025-05-29,Em Trânsito
+263,São Paulo,Belém,PA,2252,4,8000,2860,2025-06-01,Agendado
+264,Recife,Mossoró,RN,1204,1,10000,1324,2025-05-29,Entregue
+265,São Paulo,Manaus,AM,1257,4,10000,6923,2025-06-01,Agendado
+266,Florianópolis,Manaus,AM,1250,5,12000,2950,2025-06-02,Em Trânsito
+267,Belém,Natal,RN,462,1,6000,3560,2025-06-02,Agendado
+268,Brasília,Goiânia,GO,2222,2,6000,1686,2025-05-30,Em Trânsito
+269,Belém,Belo Horizonte,MG,224,6,10000,6295,2025-06-03,Entregue
+270,Brasília,Manaus,AM,1775,3,10000,5579,2025-06-04,Agendado
+271,São Paulo,Recife,PE,1783,5,12000,9381,2025-06-05,Entregue
+272,Belém,Brasília,DF,2184,5,8000,7372,2025-05-30,Entregue
+273,Brasília,Ananindeua,PA,1997,7,6000,2173,2025-05-29,Em Trânsito
+274,Brasília,Boa Vista,RR,223,6,10000,6503,2025-05-31,Entregue
+275,São Paulo,Chapecó,SC,608,3,12000,3790,2025-05-31,Entregue
+276,Florianópolis,Aracaju,SE,803,4,8000,5129,2025-06-01,Agendado
+277,Florianópolis,Goiânia,GO,2013,5,6000,4359,2025-06-05,Agendado
+278,Brasília,Salvador,BA,2065,5,10000,8860,2025-05-31,Pendente
+279,Recife,Joinville,SC,1536,1,12000,5505,2025-06-04,Em Trânsito
+280,São Paulo,Porto Alegre,RS,1328,2,6000,786,2025-06-03,Pendente
+281,Brasília,Aracaju,SE,336,4,8000,1526,2025-05-30,Agendado
+282,Belém,Belém,PA,1021,4,8000,7959,2025-06-05,Entregue
+283,Brasília,Campina Grande,PB,1279,2,12000,3965,2025-06-05,Agendado
+284,Recife,Nova Iguaçu,RJ,2499,6,6000,1242,2025-05-30,Agendado
+285,Brasília,Maceió,AL,306,5,10000,5502,2025-06-05,Pendente
+286,Florianópolis,Natal,RN,942,3,6000,1550,2025-06-01,Agendado
+287,São Paulo,Feira de Santana,BA,974,1,8000,6487,2025-05-31,Entregue
+288,Belém,Caucaia,CE,999,6,12000,2438,2025-06-01,Entregue
+289,Recife,Goiânia,GO,149,1,8000,6153,2025-05-29,Pendente
+290,Florianópolis,Campina Grande,PB,2414,1,8000,6675,2025-06-01,Agendado
+291,Belém,Manaus,AM,1761,1,6000,3963,2025-06-04,Pendente
+292,Recife,Vitória da Conquista,BA,1506,5,6000,964,2025-05-30,Em Trânsito
+293,Florianópolis,Maceió,AL,2150,2,10000,2144,2025-06-03,Agendado
+294,Recife,João Pessoa,PB,1781,5,6000,4034,2025-06-01,Em Trânsito
+295,Recife,Natal,RN,523,6,8000,2972,2025-06-05,Agendado
+296,Belém,Macapá,AP,452,4,6000,2385,2025-06-05,Agendado
+297,Florianópolis,Curitiba,PR,1354,3,10000,9363,2025-05-31,Agendado
+298,Recife,São Luís,MA,361,4,6000,2013,2025-05-31,Pendente
+299,Florianópolis,Macapá,AP,381,5,10000,6420,2025-06-05,Pendente
+300,Florianópolis,Macapá,AP,858,6,8000,3649,2025-05-29,Em Trânsito
+301,São Paulo,Campinas,SP,1219,1,6000,5704,2025-06-04,Agendado
+302,Recife,Ananindeua,PA,1708,1,8000,1623,2025-05-31,Pendente
+303,Recife,Pelotas,RS,1873,1,10000,7333,2025-06-03,Pendente
+304,São Paulo,Caucaia,CE,1920,1,6000,2177,2025-05-30,Entregue
+305,Belém,João Pessoa,PB,1570,3,12000,11256,2025-06-01,Agendado
+306,São Paulo,Brasília,DF,1762,5,10000,7615,2025-05-31,Entregue
+307,São Paulo,João Pessoa,PB,310,7,6000,1159,2025-05-31,Agendado
+308,Recife,Brasília,DF,1748,5,8000,2187,2025-05-31,Entregue
+309,Belém,Natal,RN,2152,7,12000,1613,2025-06-05,Agendado
+310,São Paulo,Campinas,SP,1106,7,10000,5297,2025-05-31,Pendente
+311,São Paulo,Maceió,AL,755,6,10000,3148,2025-05-30,Entregue
+312,Brasília,Maceió,AL,725,7,8000,7034,2025-05-31,Em Trânsito
+313,Brasília,Feira de Santana,BA,1660,1,12000,10395,2025-05-31,Entregue
+314,Recife,Curitiba,PR,2419,7,6000,2530,2025-06-04,Entregue
+315,Belém,Feira de Santana,BA,1549,5,8000,2168,2025-06-01,Agendado
+316,Florianópolis,Ananindeua,PA,2396,7,12000,3059,2025-06-05,Em Trânsito
+317,Florianópolis,Curitiba,PR,398,1,6000,5942,2025-06-02,Pendente
+318,São Paulo,Manaus,AM,335,1,12000,3964,2025-05-29,Entregue
+319,Belém,Chapecó,SC,802,1,12000,9849,2025-05-30,Em Trânsito
+320,Brasília,Uberlândia,MG,2212,4,6000,5616,2025-05-30,Em Trânsito
+321,Brasília,Goiânia,GO,381,6,6000,2988,2025-05-31,Agendado
+322,Recife,Goiânia,GO,587,4,6000,2576,2025-05-29,Agendado
+323,Brasília,Ananindeua,PA,815,4,12000,1532,2025-06-02,Em Trânsito
+324,Recife,Porto Alegre,RS,653,3,12000,3329,2025-05-29,Em Trânsito
+325,Belém,Caruaru,PE,2104,1,6000,5596,2025-05-29,Pendente
+326,Recife,Brasília,DF,131,3,6000,4334,2025-06-03,Pendente
+327,Belém,Brasília,DF,1006,2,10000,7014,2025-06-05,Pendente
+328,Florianópolis,Campinas,SP,499,6,10000,4213,2025-06-03,Entregue
+329,Brasília,Contagem,MG,2000,5,10000,1559,2025-06-05,Em Trânsito
+330,Brasília,Manaus,AM,2270,6,8000,727,2025-06-04,Em Trânsito
+331,Brasília,Boa Vista,RR,500,7,8000,6894,2025-06-04,Entregue
+332,Florianópolis,Campinas,SP,2325,4,6000,4981,2025-06-01,Em Trânsito
+333,Brasília,Maceió,AL,356,2,6000,610,2025-05-29,Entregue
+334,Belém,Curitiba,PR,258,4,12000,11570,2025-06-03,Agendado
+335,Florianópolis,Goiânia,GO,1009,6,10000,4314,2025-05-29,Entregue
+336,Florianópolis,Uberlândia,MG,1686,1,8000,3517,2025-06-02,Pendente
+337,Belém,Belo Horizonte,MG,70,6,8000,7034,2025-05-31,Agendado
+338,Recife,Mossoró,RN,207,5,8000,4215,2025-06-02,Entregue
+339,Recife,Curitiba,PR,2111,1,6000,4153,2025-05-29,Pendente
+340,Brasília,Brasília,DF,315,4,12000,9389,2025-06-03,Em Trânsito
+341,Brasília,Boa Vista,RR,719,7,6000,1153,2025-06-02,Em Trânsito
+342,São Paulo,Brasília,DF,1809,5,6000,1910,2025-05-31,Em Trânsito
+343,Recife,Boa Vista,RR,1474,4,10000,2053,2025-05-30,Pendente
+344,Brasília,Vitória da Conquista,BA,312,3,6000,3138,2025-06-05,Agendado
+345,Brasília,Mossoró,RN,2284,4,12000,4201,2025-06-01,Em Trânsito
+346,Brasília,Feira de Santana,BA,756,6,12000,2420,2025-06-03,Pendente
+347,Belém,São Luís,MA,831,4,6000,5168,2025-06-03,Pendente
+348,Belém,Natal,RN,1550,1,10000,5837,2025-06-04,Pendente
+349,Florianópolis,Brasília,DF,1593,5,6000,1262,2025-06-01,Pendente
+350,Recife,Belém,PA,651,4,10000,7928,2025-05-29,Em Trânsito
+351,Belém,Salvador,BA,1796,7,10000,9237,2025-05-29,Em Trânsito
+352,São Paulo,Caucaia,CE,1210,3,8000,1735,2025-06-03,Agendado
+353,Recife,São Luís,MA,197,3,8000,4804,2025-05-30,Em Trânsito
+354,Florianópolis,Maceió,AL,1051,2,6000,1044,2025-05-30,Em Trânsito
+355,São Paulo,Aracaju,SE,1026,1,8000,7514,2025-05-29,Entregue
+356,Brasília,Macapá,AP,2442,6,8000,3489,2025-05-29,Pendente
+357,São Paulo,Joinville,SC,487,5,10000,6702,2025-05-29,Pendente
+358,Belém,Campina Grande,PB,774,6,6000,1229,2025-06-02,Entregue
+359,Belém,Boa Vista,RR,1403,3,10000,4490,2025-05-29,Pendente
+360,Recife,Olinda,PE,2192,7,10000,6497,2025-05-29,Pendente
+361,Florianópolis,Blumenau,SC,1885,2,10000,3584,2025-06-02,Pendente
+362,Florianópolis,Olinda,PE,1745,7,8000,4239,2025-06-03,Em Trânsito
+363,Belém,João Pessoa,PB,1210,2,10000,5629,2025-06-03,Agendado
+364,São Paulo,Campinas,SP,80,3,12000,7207,2025-06-03,Em Trânsito
+365,Recife,Porto Alegre,RS,1002,3,12000,5119,2025-05-31,Em Trânsito
+366,Brasília,Vitória da Conquista,BA,2349,1,10000,7333,2025-06-03,Pendente
+367,Recife,Aracaju,SE,112,2,10000,9450,2025-06-03,Em Trânsito
+368,Florianópolis,Joinville,SC,1810,5,8000,2929,2025-05-31,Agendado
+369,São Paulo,Natal,RN,1463,5,12000,5652,2025-06-05,Em Trânsito
+370,Brasília,Maringá,PR,1849,4,12000,5737,2025-05-30,Em Trânsito
+371,Florianópolis,Brasília,DF,593,4,8000,629,2025-05-29,Entregue
+372,Belém,Porto Alegre,RS,367,5,8000,1344,2025-05-30,Pendente
+373,Belém,Maringá,PR,332,2,8000,1615,2025-06-03,Em Trânsito
+374,Recife,Chapecó,SC,1304,6,6000,5821,2025-06-01,Pendente
+375,Recife,Campina Grande,PB,1699,7,12000,8033,2025-06-05,Em Trânsito
+376,Belém,Campina Grande,PB,82,5,6000,4976,2025-06-05,Entregue
+377,Brasília,Vitória da Conquista,BA,898,1,10000,9369,2025-05-30,Agendado
+378,Brasília,Londrina,PR,2499,4,8000,3837,2025-06-02,Pendente
+379,São Paulo,Manaus,AM,1097,4,12000,11259,2025-06-03,Em Trânsito
+380,Belém,Curitiba,PR,2236,2,10000,9839,2025-06-01,Agendado
+381,Recife,Maceió,AL,492,5,6000,3473,2025-06-05,Agendado
+382,Brasília,Caucaia,CE,782,1,8000,6199,2025-05-29,Agendado
+383,Brasília,Maceió,AL,1510,5,12000,1672,2025-05-31,Entregue
+384,São Paulo,Olinda,PE,688,6,12000,5066,2025-06-02,Entregue
+385,Brasília,Brasília,DF,768,3,10000,2462,2025-05-30,Pendente
+386,Florianópolis,Blumenau,SC,2242,7,12000,11818,2025-05-30,Pendente
+387,Florianópolis,Rio de Janeiro,RJ,101,4,10000,8054,2025-06-02,Entregue
+388,Belém,Pelotas,RS,1214,1,12000,8415,2025-06-05,Agendado
+389,São Paulo,Uberlândia,MG,147,4,12000,2028,2025-06-01,Em Trânsito
+390,Brasília,Belém,PA,307,5,6000,2311,2025-06-02,Pendente
+391,São Paulo,Maceió,AL,734,1,12000,6121,2025-06-04,Entregue
+392,Recife,Pelotas,RS,116,4,12000,8477,2025-06-04,Agendado
+393,São Paulo,Santos,SP,117,2,8000,3195,2025-06-04,Pendente
+394,Florianópolis,Anápolis,GO,721,1,10000,3271,2025-06-02,Entregue
+395,São Paulo,Manaus,AM,2103,5,8000,773,2025-06-01,Pendente
+396,Belém,Ananindeua,PA,2073,6,12000,2928,2025-06-05,Agendado
+397,Recife,Macapá,AP,1888,1,12000,11125,2025-05-31,Entregue
+398,São Paulo,São Luís,MA,580,2,12000,9176,2025-06-01,Em Trânsito
+399,São Paulo,Salvador,BA,938,1,12000,4445,2025-06-05,Agendado
+400,Florianópolis,Ananindeua,PA,631,1,8000,5643,2025-06-01,Agendado
+401,Belém,Pelotas,RS,1426,7,8000,825,2025-06-01,Entregue
+402,Recife,Boa Vista,RR,1089,1,6000,5119,2025-05-31,Agendado
+403,Recife,Natal,RN,1459,4,8000,3026,2025-06-01,Em Trânsito
+404,Brasília,Macapá,AP,1778,4,6000,4677,2025-05-31,Pendente
+405,Recife,Uberlândia,MG,346,7,8000,5223,2025-05-29,Em Trânsito
+406,Belém,Curitiba,PR,2487,5,12000,5177,2025-06-01,Entregue
+407,São Paulo,Manaus,AM,1022,4,6000,1834,2025-06-05,Em Trânsito
+408,Recife,São Luís,MA,1196,4,10000,683,2025-05-29,Em Trânsito
+409,Belém,Belém,PA,1804,2,8000,7796,2025-05-29,Pendente
+410,Recife,São Luís,MA,407,1,10000,8642,2025-06-04,Pendente
+411,Recife,Salvador,BA,1307,6,10000,3018,2025-05-31,Entregue
+412,Belém,Vitória da Conquista,BA,320,3,10000,8720,2025-06-03,Agendado
+413,Recife,Manaus,AM,1840,7,8000,5658,2025-06-02,Entregue
+414,Belém,Blumenau,SC,477,2,10000,833,2025-06-04,Entregue
+415,Florianópolis,Joinville,SC,2158,6,10000,9145,2025-05-30,Entregue
+416,Florianópolis,Contagem,MG,2310,7,6000,5658,2025-06-05,Agendado
+417,Recife,Chapecó,SC,407,5,8000,2178,2025-05-29,Agendado
+418,Belém,Ribeirão Preto,SP,272,1,10000,8314,2025-05-31,Agendado
+419,Recife,Nova Iguaçu,RJ,148,2,6000,2700,2025-06-03,Entregue
+420,Recife,Manaus,AM,146,4,10000,8037,2025-06-01,Agendado
+421,Brasília,Brasília,DF,1484,2,12000,10412,2025-06-03,Pendente
+422,Belém,Pelotas,RS,1218,3,6000,2235,2025-05-29,Agendado
+423,São Paulo,Macapá,AP,1250,7,10000,4419,2025-06-02,Em Trânsito
+424,Florianópolis,Chapecó,SC,543,5,8000,4740,2025-06-02,Entregue
+425,São Paulo,Belém,PA,1954,5,12000,6764,2025-05-31,Agendado
+426,Florianópolis,Olinda,PE,869,1,10000,7174,2025-05-30,Agendado
+427,Brasília,Mossoró,RN,85,3,8000,1756,2025-05-30,Entregue
+428,Florianópolis,Manaus,AM,717,6,6000,964,2025-06-04,Em Trânsito
+429,Recife,Mossoró,RN,1414,6,6000,534,2025-06-03,Agendado
+430,São Paulo,Maceió,AL,2130,5,8000,3022,2025-06-04,Em Trânsito
+431,Recife,Caucaia,CE,1494,6,12000,6624,2025-06-04,Pendente
+432,Recife,João Pessoa,PB,2360,7,6000,1291,2025-05-30,Entregue
+433,São Paulo,Anápolis,GO,870,4,10000,8056,2025-05-29,Agendado
+434,Florianópolis,Manaus,AM,1104,5,8000,3467,2025-06-02,Em Trânsito
+435,Belém,Caucaia,CE,343,5,10000,4249,2025-05-31,Agendado
+436,Belém,Porto Alegre,RS,1358,6,8000,2948,2025-06-01,Em Trânsito
+437,Belém,Nova Iguaçu,RJ,2278,6,10000,2711,2025-06-01,Pendente
+438,Recife,Brasília,DF,825,7,12000,4694,2025-06-05,Em Trânsito
+439,Florianópolis,Caruaru,PE,567,7,12000,1379,2025-06-02,Em Trânsito
+440,São Paulo,João Pessoa,PB,1765,6,12000,10737,2025-05-31,Pendente
+441,Belém,Porto Alegre,RS,2248,3,8000,3944,2025-06-03,Agendado
+442,Recife,Boa Vista,RR,1654,5,10000,9281,2025-06-01,Em Trânsito
+443,Belém,Ananindeua,PA,664,7,12000,9483,2025-06-02,Agendado
+444,Brasília,Vitória da Conquista,BA,1587,4,8000,2935,2025-06-03,Entregue
+445,Recife,Niterói,RJ,1458,5,6000,4227,2025-06-02,Em Trânsito
+446,São Paulo,Olinda,PE,1603,2,10000,6354,2025-06-02,Em Trânsito
+447,Florianópolis,Londrina,PR,2373,3,8000,5817,2025-05-31,Em Trânsito
+448,Belém,Anápolis,GO,1616,2,8000,5583,2025-06-04,Entregue
+449,Brasília,Brasília,DF,279,7,8000,6995,2025-05-30,Em Trânsito
+450,Recife,São Luís,MA,2328,4,12000,784,2025-05-29,Entregue
+451,Recife,Feira de Santana,BA,108,2,12000,10220,2025-05-31,Entregue
+452,Recife,Caxias do Sul,RS,1463,7,6000,4839,2025-06-03,Entregue
+453,Recife,Boa Vista,RR,551,7,12000,1994,2025-06-05,Em Trânsito
+454,Florianópolis,Feira de Santana,BA,285,2,6000,5277,2025-06-03,Agendado
+455,Recife,Brasília,DF,1126,3,6000,5567,2025-06-02,Em Trânsito
+456,Recife,Caxias do Sul,RS,1917,4,6000,2992,2025-06-02,Em Trânsito
+457,Florianópolis,Maceió,AL,1511,6,10000,3046,2025-05-31,Agendado
+458,Belém,Maceió,AL,1205,5,12000,6293,2025-06-05,Agendado
+459,São Paulo,Joinville,SC,688,2,8000,3021,2025-06-03,Entregue
+460,Belém,Brasília,DF,2196,3,6000,636,2025-06-01,Entregue
+461,Belém,Curitiba,PR,1498,7,10000,6077,2025-06-04,Pendente
+462,São Paulo,São Luís,MA,856,2,10000,2064,2025-05-29,Agendado
+463,Florianópolis,Uberlândia,MG,2323,2,12000,2165,2025-06-01,Agendado
+464,São Paulo,Natal,RN,1801,2,10000,9106,2025-06-05,Agendado
+465,Florianópolis,Macapá,AP,2139,6,6000,2196,2025-05-30,Pendente
+466,Belém,Pelotas,RS,2162,7,8000,3680,2025-05-31,Agendado
+467,Recife,Macapá,AP,1696,2,12000,8244,2025-05-31,Em Trânsito
+468,Brasília,Boa Vista,RR,2203,2,12000,11311,2025-06-02,Agendado
+469,Recife,Macapá,AP,624,4,12000,10908,2025-06-01,Pendente
+470,Florianópolis,Manaus,AM,1953,5,12000,2437,2025-06-02,Pendente
+471,São Paulo,Caucaia,CE,757,6,12000,11656,2025-05-30,Entregue
+472,Brasília,Caxias do Sul,RS,1731,5,10000,4495,2025-06-04,Agendado
+473,Florianópolis,Niterói,RJ,2264,6,12000,4484,2025-06-03,Pendente
+474,Recife,Niterói,RJ,92,7,8000,7994,2025-06-03,Entregue
+475,São Paulo,Natal,RN,1588,2,12000,8555,2025-06-02,Agendado
+476,Recife,Goiânia,GO,1267,2,10000,7596,2025-06-03,Agendado
+477,Florianópolis,Macapá,AP,1462,5,6000,4788,2025-05-31,Entregue
+478,Recife,Curitiba,PR,1699,6,10000,6795,2025-06-05,Agendado
+479,São Paulo,Curitiba,PR,1954,2,10000,5700,2025-05-31,Em Trânsito
+480,Belém,Nova Iguaçu,RJ,2430,3,8000,3439,2025-06-03,Entregue
+481,Belém,Boa Vista,RR,1523,4,8000,5510,2025-05-31,Em Trânsito
+482,Belém,São Luís,MA,1884,2,10000,5279,2025-05-30,Pendente
+483,Recife,Maceió,AL,1377,4,12000,10723,2025-06-04,Pendente
+484,Brasília,Santos,SP,303,5,12000,6519,2025-06-05,Entregue
+485,Belém,São Luís,MA,1780,7,12000,4770,2025-06-02,Pendente
+486,Florianópolis,Aracaju,SE,1091,1,6000,5025,2025-06-03,Agendado
+487,Brasília,Maceió,AL,1298,1,6000,4027,2025-06-05,Entregue
+488,Recife,Fortaleza,CE,288,4,12000,2553,2025-06-02,Em Trânsito
+489,São Paulo,Manaus,AM,2352,3,8000,1795,2025-05-29,Agendado
+490,São Paulo,Campinas,SP,1595,5,12000,8569,2025-06-05,Pendente
+491,Brasília,Ananindeua,PA,1380,2,8000,4298,2025-06-03,Em Trânsito
+492,Florianópolis,Macapá,AP,2063,7,8000,585,2025-06-04,Em Trânsito
+493,Brasília,Uberlândia,MG,1617,6,8000,3838,2025-05-31,Agendado
+494,São Paulo,Ananindeua,PA,217,7,8000,688,2025-06-03,Agendado
+495,São Paulo,Boa Vista,RR,142,5,6000,513,2025-05-29,Entregue
+496,São Paulo,Londrina,PR,2147,7,10000,1214,2025-06-02,Em Trânsito
+497,São Paulo,Campina Grande,PB,461,1,8000,1627,2025-06-01,Agendado
+498,Recife,Caxias do Sul,RS,2418,4,6000,3307,2025-06-02,Pendente
+499,Belém,João Pessoa,PB,1074,1,10000,5371,2025-06-03,Em Trânsito
+500,Belém,Ribeirão Preto,SP,150,7,12000,7761,2025-06-03,Agendado
+501,Recife,Mossoró,RN,177,4,12000,11626,2025-06-05,Agendado
+502,São Paulo,Boa Vista,RR,1451,6,10000,1937,2025-05-29,Pendente
+503,Belém,Belém,PA,1958,5,8000,2820,2025-05-31,Em Trânsito
+504,São Paulo,Macapá,AP,1387,7,10000,5722,2025-06-05,Em Trânsito
+505,São Paulo,Campina Grande,PB,601,5,8000,5967,2025-06-01,Entregue
+506,Brasília,Campina Grande,PB,149,3,6000,4070,2025-06-02,Em Trânsito
+507,Recife,Uberlândia,MG,1793,2,12000,10856,2025-06-03,Agendado
+508,São Paulo,Belo Horizonte,MG,761,5,8000,6982,2025-06-05,Pendente
+509,Brasília,Feira de Santana,BA,416,1,6000,4134,2025-06-02,Pendente
+510,Brasília,João Pessoa,PB,1732,4,12000,8651,2025-06-05,Entregue
+511,São Paulo,Campina Grande,PB,991,1,12000,11692,2025-06-04,Em Trânsito
+512,Florianópolis,Campinas,SP,988,5,8000,7003,2025-06-04,Pendente
+513,Brasília,Contagem,MG,1333,6,8000,6198,2025-05-31,Em Trânsito
+514,Recife,Mossoró,RN,765,3,10000,3748,2025-06-01,Entregue
+515,Brasília,Ananindeua,PA,366,6,10000,4272,2025-06-01,Entregue
+516,Recife,Maringá,PR,2266,6,6000,3518,2025-05-30,Em Trânsito
+517,São Paulo,Belém,PA,372,5,10000,745,2025-05-31,Pendente
+518,Recife,Caruaru,PE,1838,7,8000,4825,2025-06-02,Entregue
+519,Belém,Contagem,MG,1567,1,12000,5765,2025-06-02,Em Trânsito
+520,Recife,Joinville,SC,1062,5,10000,7902,2025-06-02,Pendente
+521,Brasília,Boa Vista,RR,351,1,12000,7290,2025-06-02,Agendado
+522,Recife,Chapecó,SC,665,2,12000,4702,2025-05-30,Entregue
+523,Belém,Niterói,RJ,1481,2,10000,3918,2025-06-01,Entregue
+524,Florianópolis,Pelotas,RS,470,6,10000,8047,2025-06-05,Entregue
+525,Recife,Curitiba,PR,442,1,8000,6706,2025-06-03,Em Trânsito
+526,Brasília,João Pessoa,PB,584,4,6000,860,2025-06-05,Entregue
+527,Brasília,Macapá,AP,491,7,12000,9116,2025-06-02,Entregue
+528,São Paulo,Uberlândia,MG,2072,2,12000,933,2025-06-04,Pendente
+529,Recife,Brasília,DF,1141,5,6000,3884,2025-05-29,Em Trânsito
+530,Recife,Recife,PE,1662,2,8000,4519,2025-06-05,Agendado
+531,Brasília,Joinville,SC,203,7,10000,1449,2025-05-29,Entregue
+532,Belém,Campinas,SP,1589,6,6000,3088,2025-06-02,Agendado
+533,Florianópolis,Maceió,AL,1969,7,12000,8629,2025-06-05,Agendado
+534,São Paulo,Macapá,AP,99,1,8000,1608,2025-06-02,Em Trânsito
+535,Florianópolis,Fortaleza,CE,1757,5,8000,5690,2025-05-30,Entregue
+536,Florianópolis,Santos,SP,999,3,10000,1531,2025-05-29,Entregue
+537,Recife,Maringá,PR,1963,5,10000,7033,2025-05-29,Entregue
+538,Belém,Goiânia,GO,432,4,12000,6212,2025-06-04,Em Trânsito
+539,Brasília,Natal,RN,2272,6,8000,4521,2025-06-05,Pendente
+540,Belém,Fortaleza,CE,156,2,12000,5049,2025-06-03,Em Trânsito
+541,Belém,Natal,RN,448,3,10000,2158,2025-06-05,Entregue
+542,Recife,Macapá,AP,1796,5,10000,1882,2025-05-30,Entregue
+543,Belém,São Luís,MA,181,2,8000,615,2025-05-29,Em Trânsito
+544,São Paulo,Aracaju,SE,935,1,10000,4530,2025-06-05,Pendente
+545,Florianópolis,Blumenau,SC,870,5,6000,3295,2025-06-05,Entregue
+546,Brasília,Manaus,AM,1257,7,8000,7187,2025-06-05,Pendente
+547,Florianópolis,Fortaleza,CE,598,6,10000,8719,2025-06-01,Pendente
+548,Brasília,Anápolis,GO,1505,6,12000,7654,2025-06-05,Em Trânsito
+549,São Paulo,Uberlândia,MG,1705,4,6000,2836,2025-06-05,Agendado
+550,São Paulo,Boa Vista,RR,2410,1,6000,601,2025-06-05,Agendado
+551,Belém,Vitória da Conquista,BA,1991,2,8000,5173,2025-05-31,Entregue
+552,Recife,Campina Grande,PB,284,7,8000,6897,2025-06-03,Entregue
+553,Florianópolis,Rio de Janeiro,RJ,1424,3,10000,9345,2025-06-02,Agendado
+554,Recife,João Pessoa,PB,1752,3,10000,5565,2025-06-03,Agendado
+555,Brasília,Maceió,AL,1748,3,6000,5384,2025-06-04,Pendente
+556,Brasília,Aparecida de Goiânia,GO,1790,4,6000,5144,2025-06-02,Entregue
+557,Florianópolis,Brasília,DF,1762,1,12000,9201,2025-06-02,Pendente
+558,Recife,Brasília,DF,1453,5,6000,1912,2025-05-30,Em Trânsito
+559,Recife,Caucaia,CE,1921,1,8000,5353,2025-05-31,Em Trânsito
+560,Florianópolis,Porto Alegre,RS,1256,4,10000,748,2025-06-02,Pendente
+561,São Paulo,São Luís,MA,626,5,12000,10678,2025-06-04,Agendado
+562,Brasília,Brasília,DF,1003,5,8000,4944,2025-06-02,Agendado
+563,Belém,Aracaju,SE,640,7,12000,4343,2025-06-01,Entregue
+564,Florianópolis,Caruaru,PE,1876,6,12000,1744,2025-06-01,Em Trânsito
+565,Belém,Feira de Santana,BA,713,3,10000,576,2025-06-01,Agendado
+566,Recife,Ananindeua,PA,1854,2,12000,2615,2025-06-01,Entregue
+567,Florianópolis,Natal,RN,1612,3,12000,5094,2025-06-05,Pendente
+568,São Paulo,Salvador,BA,2388,1,6000,2296,2025-05-31,Entregue
+569,Brasília,Belo Horizonte,MG,369,2,6000,5971,2025-05-29,Agendado
+570,Brasília,Macapá,AP,1343,1,6000,2920,2025-06-01,Entregue
+571,Recife,Macapá,AP,294,6,12000,5068,2025-05-30,Pendente
+572,Recife,Anápolis,GO,1844,4,12000,4021,2025-05-31,Em Trânsito
+573,São Paulo,Joinville,SC,1062,2,10000,6649,2025-06-04,Entregue
+574,Brasília,Caucaia,CE,1156,2,8000,3144,2025-05-31,Pendente
+575,Florianópolis,Maceió,AL,1254,5,6000,3857,2025-05-31,Entregue
+576,Brasília,Mossoró,RN,1473,3,8000,1798,2025-06-01,Pendente
+577,Florianópolis,Fortaleza,CE,71,4,6000,5303,2025-05-30,Agendado
+578,Brasília,Belém,PA,494,3,8000,7405,2025-06-03,Entregue
+579,Belém,Maceió,AL,619,6,6000,845,2025-05-30,Pendente
+580,Florianópolis,Macapá,AP,237,7,6000,3031,2025-06-05,Entregue
+581,São Paulo,Maringá,PR,1895,1,10000,9683,2025-06-02,Em Trânsito
+582,Belém,Boa Vista,RR,621,1,6000,5686,2025-06-02,Agendado
+583,Florianópolis,Caxias do Sul,RS,2347,7,12000,1369,2025-05-30,Pendente
+584,São Paulo,Maringá,PR,96,6,12000,7438,2025-05-30,Em Trânsito
+585,Brasília,Rio de Janeiro,RJ,101,6,10000,3844,2025-05-29,Em Trânsito
+586,Florianópolis,Salvador,BA,1269,5,6000,789,2025-06-01,Agendado
+587,Recife,Macapá,AP,211,4,10000,1071,2025-06-02,Em Trânsito
+588,Belém,Mossoró,RN,2027,3,6000,1685,2025-05-30,Pendente
+589,Brasília,Aracaju,SE,99,2,10000,7765,2025-06-04,Agendado
+590,São Paulo,Pelotas,RS,690,6,10000,7218,2025-06-02,Entregue
+591,Belém,Nova Iguaçu,RJ,1580,2,8000,3758,2025-05-29,Agendado
+592,Recife,Maceió,AL,1874,5,6000,4891,2025-05-31,Em Trânsito
+593,São Paulo,Boa Vista,RR,1833,2,8000,5662,2025-06-02,Entregue
+594,Belém,Belo Horizonte,MG,323,2,10000,3409,2025-05-30,Entregue
+595,Recife,Fortaleza,CE,270,3,12000,3492,2025-06-03,Agendado
+596,São Paulo,Campinas,SP,721,5,10000,2066,2025-06-02,Pendente
+597,Recife,Contagem,MG,1268,2,6000,1297,2025-06-04,Agendado
+598,Belém,Santos,SP,1874,7,8000,7895,2025-05-31,Agendado
+599,São Paulo,Blumenau,SC,1669,3,12000,5027,2025-05-30,Pendente
+600,Recife,Contagem,MG,87,2,10000,2217,2025-06-04,Em Trânsito
+601,São Paulo,Pelotas,RS,565,3,8000,3119,2025-06-05,Em Trânsito
+602,São Paulo,São Luís,MA,2151,3,8000,1924,2025-05-30,Pendente
+603,Belém,Joinville,SC,2485,2,6000,5426,2025-05-29,Entregue
+604,Recife,Ananindeua,PA,1926,2,6000,616,2025-05-29,Entregue
+605,São Paulo,Maceió,AL,1241,1,8000,5099,2025-06-05,Pendente
+606,Brasília,Aracaju,SE,2314,5,10000,733,2025-06-04,Em Trânsito
+607,Recife,Ananindeua,PA,1063,5,12000,7289,2025-05-31,Agendado
+608,Belém,Boa Vista,RR,1401,1,12000,9863,2025-06-03,Em Trânsito
+609,São Paulo,Aparecida de Goiânia,GO,1102,6,10000,6640,2025-06-02,Em Trânsito
+610,Recife,Goiânia,GO,1074,6,12000,2087,2025-06-01,Entregue
+611,Belém,Pelotas,RS,2093,7,8000,7618,2025-05-29,Entregue
+612,Florianópolis,Uberlândia,MG,1418,7,12000,1731,2025-05-31,Entregue
+613,Belém,Boa Vista,RR,1865,6,10000,5069,2025-06-02,Agendado
+614,Recife,João Pessoa,PB,2142,5,10000,5600,2025-06-03,Pendente
+615,Recife,Caruaru,PE,1069,5,12000,11254,2025-05-31,Pendente
+616,Brasília,Blumenau,SC,1747,2,12000,5805,2025-06-03,Entregue
+617,Florianópolis,Belém,PA,537,1,8000,5821,2025-06-03,Entregue
+618,São Paulo,Caruaru,PE,2270,5,10000,1458,2025-05-29,Em Trânsito
+619,São Paulo,Anápolis,GO,430,7,8000,2226,2025-05-29,Entregue
+620,Recife,Nova Iguaçu,RJ,1440,6,8000,5991,2025-06-05,Em Trânsito
+621,Brasília,Goiânia,GO,847,1,6000,5156,2025-06-05,Agendado
+622,Brasília,Maceió,AL,1689,1,10000,1155,2025-05-29,Em Trânsito
+623,Brasília,Brasília,DF,569,2,12000,6754,2025-05-31,Pendente
+624,Belém,Mossoró,RN,225,6,8000,6120,2025-06-01,Pendente
+625,Belém,Aracaju,SE,702,1,12000,9056,2025-06-02,Em Trânsito
+626,São Paulo,Brasília,DF,1065,2,6000,2272,2025-06-04,Entregue
+627,São Paulo,Belo Horizonte,MG,1451,1,12000,2911,2025-06-01,Em Trânsito
+628,São Paulo,Nova Iguaçu,RJ,331,5,8000,3986,2025-06-04,Agendado
+629,São Paulo,Uberlândia,MG,2098,4,8000,5483,2025-06-03,Em Trânsito
+630,Recife,Natal,RN,1702,3,6000,658,2025-05-29,Em Trânsito
+631,Recife,Boa Vista,RR,668,7,8000,5122,2025-06-03,Em Trânsito
+632,São Paulo,Niterói,RJ,1275,5,12000,6648,2025-05-30,Em Trânsito
+633,Recife,Belo Horizonte,MG,2078,2,8000,3477,2025-06-02,Em Trânsito
+634,Florianópolis,Natal,RN,1557,4,8000,3777,2025-06-05,Entregue
+635,Belém,Aparecida de Goiânia,GO,1815,7,10000,5332,2025-06-05,Em Trânsito
+636,São Paulo,Natal,RN,2003,7,8000,6800,2025-06-05,Pendente
+637,Brasília,Niterói,RJ,1972,6,12000,8370,2025-05-31,Pendente
+638,Florianópolis,Macapá,AP,1165,1,12000,11440,2025-06-04,Pendente
+639,Florianópolis,Boa Vista,RR,753,4,8000,3616,2025-05-29,Entregue
+640,São Paulo,Aracaju,SE,2044,3,6000,3204,2025-06-03,Agendado
+641,Brasília,Brasília,DF,872,7,12000,6228,2025-05-30,Em Trânsito
+642,Belém,Caxias do Sul,RS,1119,4,6000,4715,2025-05-30,Agendado
+643,Belém,Fortaleza,CE,358,7,6000,573,2025-05-30,Entregue
+644,Belém,Rio de Janeiro,RJ,2477,1,6000,5191,2025-06-03,Em Trânsito
+645,Belém,Brasília,DF,1188,3,12000,5132,2025-05-30,Entregue
+646,Florianópolis,Caruaru,PE,2023,4,6000,5662,2025-05-30,Agendado
+647,São Paulo,Feira de Santana,BA,509,5,10000,9863,2025-05-31,Pendente
+648,Brasília,Manaus,AM,2407,5,8000,6103,2025-06-05,Em Trânsito
+649,Recife,Curitiba,PR,2261,5,8000,6580,2025-05-30,Pendente
+650,Brasília,Ribeirão Preto,SP,1936,6,12000,1043,2025-05-30,Em Trânsito
+651,Florianópolis,Mossoró,RN,798,1,12000,9933,2025-06-01,Agendado
+652,Recife,Joinville,SC,758,5,12000,2643,2025-06-04,Entregue
+653,Brasília,Macapá,AP,815,2,6000,5400,2025-05-31,Entregue
+654,Recife,Maringá,PR,1600,3,10000,630,2025-06-05,Agendado
+655,Belém,Manaus,AM,2400,2,8000,1521,2025-05-29,Em Trânsito
+656,São Paulo,Macapá,AP,1465,2,12000,7841,2025-06-01,Entregue
+657,Recife,Manaus,AM,82,4,8000,2012,2025-06-01,Pendente
+658,Belém,Macapá,AP,571,6,6000,4424,2025-06-01,Entregue
+659,Belém,Maceió,AL,483,5,12000,6962,2025-06-03,Pendente
+660,São Paulo,Ribeirão Preto,SP,745,3,6000,3765,2025-05-31,Em Trânsito
+661,Belém,Brasília,DF,1489,6,12000,2508,2025-06-04,Em Trânsito
+662,Belém,São Luís,MA,567,7,10000,1008,2025-06-04,Pendente
+663,Belém,Manaus,AM,2242,7,6000,5154,2025-06-04,Em Trânsito
+664,Brasília,Boa Vista,RR,282,2,6000,5052,2025-05-30,Entregue
+665,Florianópolis,Salvador,BA,1140,3,12000,5370,2025-05-30,Entregue
+666,Belém,Goiânia,GO,1066,4,8000,533,2025-06-03,Em Trânsito
+667,São Paulo,Boa Vista,RR,2066,5,12000,854,2025-06-05,Entregue
+668,São Paulo,Recife,PE,491,5,10000,5132,2025-06-02,Agendado
+669,Belém,Porto Alegre,RS,1577,7,10000,4070,2025-06-02,Pendente
+670,Florianópolis,Londrina,PR,1507,5,10000,3524,2025-06-04,Entregue
+671,Belém,Macapá,AP,479,7,8000,3257,2025-06-01,Agendado
+672,Recife,Caruaru,PE,1477,6,8000,7999,2025-06-05,Agendado
+673,Florianópolis,Aracaju,SE,1176,4,10000,3613,2025-06-02,Em Trânsito
+674,Brasília,Natal,RN,2420,7,6000,3032,2025-06-03,Entregue
+675,Florianópolis,Ananindeua,PA,1428,4,12000,3724,2025-06-04,Entregue
+676,Brasília,Ananindeua,PA,2457,7,8000,1057,2025-06-05,Em Trânsito
+677,Belém,Curitiba,PR,1585,3,12000,5771,2025-05-30,Pendente
+678,Belém,Aracaju,SE,1659,3,6000,2113,2025-05-31,Pendente
+679,Brasília,Belém,PA,772,5,6000,1995,2025-06-01,Agendado
+680,Recife,Feira de Santana,BA,2471,7,8000,3763,2025-06-01,Entregue
+681,Recife,Uberlândia,MG,2369,3,10000,9823,2025-06-05,Agendado
+682,São Paulo,Anápolis,GO,142,1,10000,6800,2025-05-31,Agendado
+683,Belém,Belém,PA,1274,4,8000,6691,2025-06-04,Pendente
+684,Florianópolis,Brasília,DF,1865,5,12000,4808,2025-06-05,Entregue
+685,Recife,Macapá,AP,1985,6,8000,1769,2025-06-02,Pendente
+686,Belém,Ribeirão Preto,SP,1768,3,6000,3883,2025-05-30,Agendado
+687,Belém,Nova Iguaçu,RJ,295,2,6000,5297,2025-05-31,Agendado
+688,Belém,Niterói,RJ,1545,1,10000,2069,2025-06-01,Em Trânsito
+689,Recife,Maringá,PR,1945,3,6000,4682,2025-05-31,Entregue
+690,Recife,Macapá,AP,977,1,12000,7637,2025-06-04,Entregue
+691,São Paulo,Brasília,DF,2433,7,10000,6334,2025-06-02,Entregue
+692,Recife,Ananindeua,PA,2302,6,8000,6108,2025-06-01,Em Trânsito
+693,Brasília,Manaus,AM,2232,3,10000,2634,2025-06-04,Entregue
+694,Brasília,São Luís,MA,345,7,10000,6824,2025-05-31,Pendente
+695,Recife,Maringá,PR,248,1,6000,5718,2025-06-01,Em Trânsito
+696,Brasília,Recife,PE,2138,2,6000,4277,2025-06-02,Pendente
+697,Florianópolis,Chapecó,SC,1183,7,10000,9381,2025-06-04,Agendado
+698,São Paulo,Natal,RN,2300,7,6000,1834,2025-05-30,Pendente
+699,Florianópolis,Brasília,DF,2258,7,6000,1362,2025-06-04,Pendente
+700,Belém,São Luís,MA,1549,3,10000,2311,2025-06-01,Em Trânsito
+701,Recife,Vitória da Conquista,BA,1019,6,12000,2939,2025-06-04,Agendado
+702,São Paulo,Belo Horizonte,MG,572,3,6000,5554,2025-06-03,Pendente
+703,Belém,Aracaju,SE,665,7,10000,4993,2025-05-30,Agendado
+704,São Paulo,Brasília,DF,1610,2,8000,1715,2025-06-05,Agendado
+705,São Paulo,Manaus,AM,1190,4,8000,5803,2025-06-05,Pendente
+706,Belém,Mossoró,RN,857,3,6000,4808,2025-06-03,Em Trânsito
+707,Recife,Manaus,AM,449,3,6000,2850,2025-06-03,Entregue
+708,Belém,Feira de Santana,BA,965,1,12000,7977,2025-05-31,Em Trânsito
+709,Recife,João Pessoa,PB,1978,3,10000,3882,2025-05-30,Entregue
+710,São Paulo,Brasília,DF,185,3,8000,4455,2025-06-04,Agendado
+711,Recife,Caxias do Sul,RS,1010,4,12000,5201,2025-06-05,Em Trânsito
+712,São Paulo,Joinville,SC,1813,6,6000,5543,2025-05-31,Pendente
+713,Recife,Maceió,AL,1482,3,10000,9862,2025-06-02,Entregue
+714,Brasília,Nova Iguaçu,RJ,2329,5,8000,3568,2025-06-05,Em Trânsito
+715,Brasília,João Pessoa,PB,2291,1,12000,1532,2025-05-30,Pendente
+716,Brasília,Natal,RN,1847,3,12000,9398,2025-06-05,Pendente
+717,Brasília,João Pessoa,PB,2090,2,12000,11212,2025-06-04,Em Trânsito
+718,Brasília,João Pessoa,PB,599,4,6000,3326,2025-06-03,Entregue
+719,Florianópolis,Brasília,DF,816,1,6000,2923,2025-06-03,Agendado
+720,Florianópolis,Caucaia,CE,1950,5,10000,5342,2025-05-30,Pendente
+721,Brasília,Belo Horizonte,MG,444,1,10000,7095,2025-06-04,Em Trânsito
+722,Recife,Olinda,PE,1432,2,12000,8480,2025-05-29,Agendado
+723,São Paulo,Uberlândia,MG,879,6,8000,4747,2025-05-30,Pendente
+724,Belém,Maringá,PR,1383,6,6000,5432,2025-06-05,Entregue
+725,Belém,Campinas,SP,432,1,10000,9139,2025-05-29,Em Trânsito
+726,Recife,Caruaru,PE,76,6,12000,5604,2025-05-30,Agendado
+727,Recife,Aracaju,SE,257,5,10000,8496,2025-06-05,Agendado
+728,Recife,Caucaia,CE,870,5,8000,5786,2025-06-05,Agendado
+729,São Paulo,Campina Grande,PB,1857,3,8000,7682,2025-06-05,Pendente
+730,São Paulo,Caxias do Sul,RS,2099,5,10000,1273,2025-05-30,Em Trânsito
+731,Recife,João Pessoa,PB,2465,3,12000,3768,2025-05-30,Entregue
+732,Belém,Manaus,AM,820,6,6000,5437,2025-06-03,Pendente
+733,São Paulo,Joinville,SC,1556,4,6000,1380,2025-06-02,Agendado
+734,Recife,Salvador,BA,1361,4,8000,6652,2025-06-01,Agendado
+735,Belém,Belo Horizonte,MG,1538,2,12000,1281,2025-05-30,Entregue
+736,Brasília,Maceió,AL,404,2,8000,2683,2025-06-02,Agendado
+737,Recife,Blumenau,SC,2030,6,6000,5997,2025-05-31,Pendente
+738,Brasília,Curitiba,PR,1690,5,10000,9855,2025-05-30,Entregue
+739,Belém,Santos,SP,972,6,12000,1776,2025-05-29,Entregue
+740,Recife,Manaus,AM,1887,3,10000,8042,2025-06-04,Entregue
+741,São Paulo,Uberlândia,MG,2437,7,6000,5342,2025-06-05,Entregue
+742,Belém,Caruaru,PE,251,2,6000,2595,2025-06-02,Pendente
+743,Florianópolis,Aracaju,SE,2405,7,8000,2556,2025-06-04,Agendado
+744,Belém,Nova Iguaçu,RJ,1174,5,12000,7495,2025-05-29,Agendado
+745,Belém,Olinda,PE,531,5,6000,3884,2025-06-04,Agendado
+746,Recife,Natal,RN,246,5,10000,7659,2025-06-02,Pendente
+747,Brasília,Recife,PE,2079,4,6000,4181,2025-06-01,Em Trânsito
+748,Belém,Nova Iguaçu,RJ,1951,7,12000,8369,2025-06-01,Agendado
+749,Recife,Feira de Santana,BA,641,4,12000,10407,2025-06-01,Entregue
+750,Brasília,Blumenau,SC,1660,1,12000,1640,2025-05-30,Pendente
+751,São Paulo,Mossoró,RN,1062,2,10000,4851,2025-05-30,Entregue
+752,São Paulo,Aracaju,SE,1310,6,12000,3981,2025-06-01,Agendado
+753,São Paulo,Rio de Janeiro,RJ,2108,3,8000,3552,2025-06-03,Entregue
+754,Florianópolis,Goiânia,GO,1244,6,10000,4141,2025-05-30,Pendente
+755,São Paulo,Natal,RN,358,1,8000,7931,2025-06-02,Em Trânsito
+756,São Paulo,Belo Horizonte,MG,455,4,6000,3835,2025-06-02,Entregue
+757,Brasília,Chapecó,SC,1105,5,10000,9828,2025-05-31,Entregue
+758,Belém,Manaus,AM,306,5,12000,1815,2025-06-03,Pendente
+759,Brasília,Salvador,BA,1588,6,8000,7861,2025-06-02,Pendente
+760,Brasília,Vitória da Conquista,BA,174,3,10000,3346,2025-06-05,Pendente
+761,Recife,Maringá,PR,944,5,6000,1513,2025-05-30,Agendado
+762,Florianópolis,Macapá,AP,1322,6,10000,9180,2025-06-02,Agendado
+763,Brasília,Brasília,DF,939,2,8000,4638,2025-06-01,Em Trânsito
+764,São Paulo,Boa Vista,RR,1814,5,10000,8105,2025-06-01,Entregue
+765,São Paulo,Londrina,PR,1113,4,8000,5779,2025-06-04,Entregue
+766,Recife,Contagem,MG,1679,4,12000,10511,2025-06-05,Agendado
+767,São Paulo,Maceió,AL,131,6,12000,3969,2025-05-29,Pendente
+768,Brasília,João Pessoa,PB,1139,7,12000,4542,2025-05-30,Entregue
+769,São Paulo,Feira de Santana,BA,959,6,8000,3007,2025-05-29,Entregue
+770,Florianópolis,São Luís,MA,1046,3,12000,6410,2025-06-04,Agendado
+771,Florianópolis,Brasília,DF,2422,1,12000,5941,2025-05-29,Agendado
+772,Belém,São Luís,MA,484,3,12000,8809,2025-06-03,Pendente
+773,Recife,Rio de Janeiro,RJ,272,2,10000,8701,2025-06-02,Em Trânsito
+774,Florianópolis,Boa Vista,RR,1852,6,10000,9687,2025-05-29,Agendado
+775,Belém,Joinville,SC,1525,5,6000,5512,2025-06-02,Pendente
+776,Recife,São Luís,MA,217,2,12000,6834,2025-05-30,Pendente
+777,Belém,Caruaru,PE,452,6,8000,4861,2025-05-31,Entregue
+778,São Paulo,Campinas,SP,874,6,12000,3323,2025-06-02,Em Trânsito
+779,Recife,Curitiba,PR,184,1,10000,5377,2025-05-31,Em Trânsito
+780,São Paulo,Boa Vista,RR,401,2,8000,5408,2025-06-01,Agendado
+781,São Paulo,João Pessoa,PB,1374,5,8000,4723,2025-06-05,Em Trânsito
+782,Belém,Blumenau,SC,508,5,10000,1420,2025-05-30,Entregue
+783,Brasília,Maceió,AL,2056,2,10000,1682,2025-06-04,Em Trânsito
+784,Florianópolis,Recife,PE,117,3,12000,7707,2025-05-31,Entregue
+785,Florianópolis,Fortaleza,CE,1575,4,12000,8809,2025-06-01,Pendente
+786,São Paulo,Campinas,SP,1659,6,10000,7166,2025-05-30,Entregue
+787,Florianópolis,Boa Vista,RR,1415,1,6000,2137,2025-06-05,Em Trânsito
+788,Florianópolis,Niterói,RJ,1593,4,8000,1022,2025-05-29,Entregue
+789,Florianópolis,Aparecida de Goiânia,GO,1984,1,6000,5607,2025-06-04,Pendente
+790,Florianópolis,Maceió,AL,2481,3,6000,3202,2025-05-31,Em Trânsito
+791,Belém,Olinda,PE,2237,6,6000,4567,2025-05-31,Em Trânsito
+792,Recife,Uberlândia,MG,1924,3,12000,9231,2025-06-04,Entregue
+793,São Paulo,São Luís,MA,52,1,10000,6537,2025-06-05,Em Trânsito
+794,Recife,Mossoró,RN,1959,1,6000,953,2025-05-29,Entregue
+795,Florianópolis,Campinas,SP,918,1,8000,6227,2025-06-03,Em Trânsito
+796,Recife,Macapá,AP,2025,6,8000,2916,2025-06-01,Entregue
+797,Recife,Mossoró,RN,732,7,8000,6502,2025-06-03,Agendado
+798,São Paulo,Joinville,SC,1537,3,12000,7143,2025-05-29,Entregue
+799,Florianópolis,Blumenau,SC,1094,3,6000,3153,2025-06-02,Em Trânsito
+800,São Paulo,Aracaju,SE,2036,6,8000,6005,2025-06-02,Agendado
+801,Recife,Feira de Santana,BA,1451,6,8000,546,2025-06-04,Pendente
+802,Recife,Macapá,AP,2222,1,8000,6381,2025-05-31,Em Trânsito
+803,Florianópolis,Maceió,AL,1669,1,8000,1770,2025-06-04,Entregue
+804,Florianópolis,Aparecida de Goiânia,GO,1922,4,12000,553,2025-05-29,Agendado
+805,São Paulo,Rio de Janeiro,RJ,958,4,10000,9958,2025-05-30,Pendente
+806,Recife,Vitória da Conquista,BA,2467,3,6000,3203,2025-06-02,Pendente
+807,Recife,Macapá,AP,2192,2,10000,2329,2025-06-05,Pendente
+808,São Paulo,Fortaleza,CE,1155,7,8000,4304,2025-06-04,Em Trânsito
+809,Belém,Belém,PA,1413,4,8000,6687,2025-05-31,Entregue
+810,São Paulo,Chapecó,SC,1639,2,8000,556,2025-06-02,Pendente
+811,Belém,Boa Vista,RR,518,7,8000,5762,2025-05-29,Entregue
+812,São Paulo,Belo Horizonte,MG,2136,7,8000,1559,2025-05-29,Agendado
+813,Brasília,João Pessoa,PB,1305,2,12000,692,2025-06-05,Em Trânsito
+814,Belém,Belo Horizonte,MG,517,3,6000,879,2025-06-01,Agendado
+815,Brasília,Feira de Santana,BA,1547,1,12000,6946,2025-05-29,Agendado
+816,São Paulo,Londrina,PR,1569,5,12000,8419,2025-05-30,Em Trânsito
+817,Belém,Fortaleza,CE,2032,2,12000,5250,2025-05-30,Entregue
+818,São Paulo,Manaus,AM,2369,3,10000,8857,2025-06-04,Pendente
+819,São Paulo,João Pessoa,PB,1442,5,12000,6785,2025-06-05,Entregue
+820,Recife,Salvador,BA,1908,5,12000,6759,2025-05-31,Em Trânsito
+821,Recife,Boa Vista,RR,1668,7,6000,2163,2025-06-01,Agendado
+822,Belém,Aracaju,SE,311,5,6000,1760,2025-05-29,Entregue
+823,São Paulo,Brasília,DF,1879,6,6000,2696,2025-06-04,Entregue
+824,Recife,Uberlândia,MG,2459,1,8000,7364,2025-05-29,Em Trânsito
+825,Belém,Rio de Janeiro,RJ,764,3,8000,5082,2025-05-29,Agendado
+826,Belém,Macapá,AP,941,7,12000,7014,2025-06-04,Entregue
+827,Brasília,Recife,PE,1863,2,6000,3648,2025-06-02,Pendente
+828,Florianópolis,Boa Vista,RR,1213,6,12000,9056,2025-06-01,Entregue
+829,Florianópolis,Brasília,DF,902,5,10000,6176,2025-05-30,Pendente
+830,Belém,Chapecó,SC,990,6,6000,3662,2025-05-30,Pendente
+831,Belém,São Luís,MA,1115,3,8000,5008,2025-05-30,Em Trânsito
+832,Belém,Olinda,PE,1884,1,12000,3490,2025-05-30,Agendado
+833,São Paulo,Caxias do Sul,RS,1767,2,6000,1002,2025-06-05,Pendente
+834,Florianópolis,Maringá,PR,1011,5,10000,5493,2025-06-04,Em Trânsito
+835,Recife,Caruaru,PE,221,7,10000,9101,2025-06-04,Pendente
+836,São Paulo,Joinville,SC,2105,3,12000,11202,2025-05-30,Entregue
+837,Recife,Maceió,AL,1700,3,6000,1200,2025-06-05,Entregue
+838,Brasília,Caucaia,CE,728,5,10000,7682,2025-05-29,Agendado
+839,Florianópolis,Brasília,DF,1374,1,12000,1645,2025-05-29,Entregue
+840,Brasília,Goiânia,GO,539,5,6000,5481,2025-06-05,Entregue
+841,Recife,Contagem,MG,1696,5,10000,8564,2025-05-29,Agendado
+842,São Paulo,Brasília,DF,954,7,8000,4474,2025-05-30,Pendente
+843,Belém,Macapá,AP,938,4,8000,7182,2025-06-02,Agendado
+844,São Paulo,Ribeirão Preto,SP,1072,5,10000,9117,2025-06-05,Em Trânsito
+845,Brasília,Belém,PA,508,1,8000,5380,2025-06-04,Pendente
+846,Brasília,Belém,PA,1387,5,6000,3111,2025-06-01,Pendente
+847,São Paulo,Contagem,MG,1637,2,8000,1504,2025-05-31,Pendente
+848,Recife,Niterói,RJ,825,1,8000,4756,2025-05-30,Entregue
+849,Belém,Maringá,PR,1981,3,12000,11155,2025-05-30,Agendado
+850,Belém,Brasília,DF,761,4,8000,5497,2025-06-01,Pendente
+851,Recife,Caruaru,PE,1124,7,8000,7544,2025-06-04,Agendado
+852,Recife,Recife,PE,224,7,8000,5779,2025-06-01,Em Trânsito
+853,Recife,Salvador,BA,399,4,6000,869,2025-06-05,Entregue
+854,Belém,Nova Iguaçu,RJ,705,3,12000,2153,2025-05-30,Em Trânsito
+855,São Paulo,Belém,PA,2061,1,10000,9496,2025-05-31,Pendente
+856,Recife,Manaus,AM,1118,7,6000,5268,2025-06-04,Em Trânsito
+857,Recife,Mossoró,RN,245,5,6000,1587,2025-05-30,Em Trânsito
+858,São Paulo,Manaus,AM,1304,3,12000,2053,2025-06-02,Entregue
+859,Belém,Recife,PE,1536,1,10000,7604,2025-06-05,Entregue
+860,Florianópolis,Macapá,AP,1340,3,10000,6536,2025-06-03,Em Trânsito
+861,Recife,Rio de Janeiro,RJ,930,2,8000,2159,2025-06-01,Entregue
+862,Florianópolis,Belo Horizonte,MG,2153,7,6000,4397,2025-05-31,Entregue
+863,Recife,Contagem,MG,2068,5,8000,2699,2025-05-31,Pendente
+864,Recife,Boa Vista,RR,1639,6,8000,937,2025-06-01,Agendado
+865,Brasília,Uberlândia,MG,1133,4,12000,6011,2025-06-01,Pendente
+866,Brasília,Maceió,AL,1766,1,8000,1402,2025-05-31,Em Trânsito
+867,Belém,Aracaju,SE,2468,3,12000,2876,2025-05-31,Pendente
+868,Belém,Ribeirão Preto,SP,134,6,12000,10071,2025-05-30,Em Trânsito
+869,Recife,Caruaru,PE,863,3,10000,4202,2025-06-01,Entregue
+870,São Paulo,Campinas,SP,2188,6,6000,2626,2025-05-30,Agendado
+871,São Paulo,São Luís,MA,1791,2,10000,8138,2025-06-04,Agendado
+872,São Paulo,Fortaleza,CE,186,4,8000,2119,2025-05-30,Entregue
+873,Brasília,Brasília,DF,2220,4,10000,7983,2025-05-29,Agendado
+874,São Paulo,Manaus,AM,714,6,8000,3512,2025-05-31,Em Trânsito
+875,Brasília,Brasília,DF,1824,1,12000,6232,2025-05-31,Pendente
+876,Belém,Belém,PA,2305,7,6000,5884,2025-06-01,Pendente
+877,Recife,Ananindeua,PA,1763,7,10000,6205,2025-05-29,Agendado
+878,Brasília,Contagem,MG,1126,5,10000,6579,2025-06-03,Em Trânsito
+879,Florianópolis,Olinda,PE,1575,2,10000,878,2025-06-02,Entregue
+880,Florianópolis,Pelotas,RS,476,1,8000,4538,2025-06-03,Agendado
+881,São Paulo,Brasília,DF,280,7,10000,985,2025-05-30,Em Trânsito
+882,Belém,Joinville,SC,374,6,10000,6610,2025-06-03,Entregue
+883,Belém,Fortaleza,CE,810,3,6000,1353,2025-05-31,Pendente
+884,Brasília,Belém,PA,1622,1,12000,1219,2025-05-31,Entregue
+885,Brasília,Ananindeua,PA,622,7,10000,5350,2025-05-30,Agendado
+886,Florianópolis,Anápolis,GO,2023,7,8000,4491,2025-05-31,Pendente
+887,São Paulo,Macapá,AP,2231,6,12000,9807,2025-06-05,Em Trânsito
+888,São Paulo,Brasília,DF,1022,1,10000,7013,2025-05-31,Pendente
+889,Florianópolis,Brasília,DF,387,3,6000,1629,2025-05-30,Agendado
+890,Recife,Maceió,AL,1920,7,10000,9777,2025-05-29,Agendado
+891,Recife,Natal,RN,1901,3,6000,4507,2025-06-05,Pendente
+892,Belém,Belo Horizonte,MG,1508,4,8000,1811,2025-05-29,Em Trânsito
+893,São Paulo,João Pessoa,PB,812,5,6000,3431,2025-05-30,Entregue
+894,Florianópolis,Contagem,MG,1099,6,12000,1424,2025-06-02,Em Trânsito
+895,Recife,Caxias do Sul,RS,627,6,10000,6764,2025-05-29,Entregue
+896,Recife,Feira de Santana,BA,1560,3,12000,535,2025-06-04,Em Trânsito
+897,Brasília,João Pessoa,PB,1771,7,8000,7548,2025-06-02,Entregue
+898,Florianópolis,Ribeirão Preto,SP,103,6,8000,7017,2025-06-01,Agendado
+899,Recife,Caruaru,PE,2174,7,10000,1244,2025-05-30,Pendente
+900,São Paulo,Rio de Janeiro,RJ,2471,1,8000,7280,2025-05-30,Agendado
+901,Recife,Manaus,AM,975,4,12000,2667,2025-06-01,Entregue
+902,Recife,Porto Alegre,RS,879,6,12000,2294,2025-05-31,Entregue
+903,Brasília,Brasília,DF,845,3,12000,10994,2025-05-29,Entregue
+904,Brasília,Brasília,DF,258,2,8000,2403,2025-06-04,Em Trânsito
+905,Florianópolis,Aracaju,SE,2252,3,12000,6978,2025-06-04,Pendente
+906,Recife,Caxias do Sul,RS,1474,1,6000,1082,2025-06-01,Pendente
+907,Belém,Fortaleza,CE,165,2,6000,3804,2025-05-29,Pendente
+908,Florianópolis,Boa Vista,RR,310,4,6000,2833,2025-05-29,Agendado
+909,Brasília,Recife,PE,2463,7,8000,2983,2025-06-02,Em Trânsito
+910,Florianópolis,Belém,PA,1890,7,8000,5349,2025-05-29,Entregue
+911,Brasília,Aparecida de Goiânia,GO,179,3,10000,8245,2025-06-05,Em Trânsito
+912,Recife,Porto Alegre,RS,850,5,12000,9037,2025-05-31,Agendado
+913,Florianópolis,Goiânia,GO,208,4,10000,1725,2025-05-30,Entregue
+914,Belém,Aparecida de Goiânia,GO,989,5,12000,9369,2025-06-01,Pendente
+915,Brasília,Santos,SP,1059,1,10000,5157,2025-05-30,Em Trânsito
+916,Florianópolis,Mossoró,RN,2284,1,12000,11092,2025-06-02,Entregue
+917,São Paulo,Curitiba,PR,2234,2,12000,11682,2025-05-31,Agendado
+918,Belém,Belém,PA,1280,2,10000,9556,2025-06-04,Agendado
+919,São Paulo,Natal,RN,1921,7,12000,2388,2025-06-02,Em Trânsito
+920,Florianópolis,Nova Iguaçu,RJ,1677,5,10000,2842,2025-06-05,Pendente
+921,Florianópolis,Manaus,AM,2479,3,10000,986,2025-06-03,Agendado
+922,São Paulo,Aracaju,SE,874,2,8000,6599,2025-06-04,Agendado
+923,Florianópolis,Belém,PA,912,3,8000,1561,2025-05-31,Pendente
+924,Recife,Maringá,PR,2120,6,12000,697,2025-05-30,Agendado
+925,São Paulo,Boa Vista,RR,2087,7,8000,7948,2025-06-02,Entregue
+926,Brasília,Anápolis,GO,560,5,10000,5797,2025-05-31,Entregue
+927,Florianópolis,Feira de Santana,BA,1643,1,10000,4650,2025-06-03,Entregue
+928,São Paulo,Manaus,AM,1557,5,8000,5189,2025-05-29,Em Trânsito
+929,Florianópolis,Boa Vista,RR,646,6,10000,9097,2025-06-05,Agendado
+930,Florianópolis,Mossoró,RN,2313,7,8000,4047,2025-06-03,Em Trânsito
+931,Belém,Macapá,AP,875,2,10000,2907,2025-06-02,Pendente
+932,Florianópolis,Chapecó,SC,393,2,6000,5074,2025-05-30,Pendente
+933,Recife,Londrina,PR,2173,1,6000,2707,2025-06-04,Agendado
+934,Florianópolis,Goiânia,GO,1788,5,10000,8356,2025-06-01,Agendado
+935,Florianópolis,Feira de Santana,BA,1186,3,10000,9822,2025-06-02,Entregue
+936,São Paulo,Campina Grande,PB,1903,5,12000,756,2025-05-29,Pendente
+937,Belém,Manaus,AM,1769,5,10000,6108,2025-05-31,Pendente
+938,Recife,Caxias do Sul,RS,1563,1,8000,1738,2025-06-02,Agendado
+939,Florianópolis,Feira de Santana,BA,1400,3,6000,4005,2025-06-05,Entregue
+940,Florianópolis,Blumenau,SC,963,2,6000,696,2025-06-02,Em Trânsito
+941,Florianópolis,Anápolis,GO,1368,1,6000,1041,2025-06-05,Pendente
+942,Brasília,Recife,PE,300,3,12000,840,2025-06-03,Pendente
+943,Florianópolis,Salvador,BA,2130,1,8000,3307,2025-06-01,Entregue
+944,Recife,Niterói,RJ,884,5,10000,1849,2025-06-04,Agendado
+945,Belém,Porto Alegre,RS,64,4,8000,906,2025-06-03,Entregue
+946,Brasília,Macapá,AP,2101,3,12000,572,2025-06-01,Pendente
+947,São Paulo,Maceió,AL,900,6,12000,3329,2025-05-31,Em Trânsito
+948,Belém,Manaus,AM,1539,2,8000,7451,2025-06-02,Entregue
+949,Brasília,João Pessoa,PB,1114,2,10000,3242,2025-06-04,Agendado
+950,São Paulo,Recife,PE,749,5,6000,1304,2025-06-04,Agendado
+951,Florianópolis,João Pessoa,PB,992,5,8000,3024,2025-05-31,Em Trânsito
+952,Recife,Maceió,AL,1437,3,6000,3124,2025-06-02,Pendente
+953,Recife,Blumenau,SC,2025,1,8000,3444,2025-05-29,Pendente
+954,Belém,Mossoró,RN,83,5,8000,7436,2025-06-01,Agendado
+955,Florianópolis,Goiânia,GO,1977,1,10000,6684,2025-06-04,Entregue
+956,Belém,Salvador,BA,921,4,10000,6987,2025-05-30,Em Trânsito
+957,Brasília,Aracaju,SE,209,5,6000,1852,2025-05-29,Em Trânsito
+958,Belém,Aracaju,SE,1606,6,12000,8002,2025-06-01,Pendente
+959,Recife,Goiânia,GO,1454,2,12000,11663,2025-06-05,Agendado
+960,São Paulo,João Pessoa,PB,1329,4,10000,3713,2025-05-29,Agendado
+961,Brasília,Niterói,RJ,2286,1,12000,9333,2025-06-01,Entregue
+962,Belém,Feira de Santana,BA,1916,5,8000,5212,2025-06-04,Em Trânsito
+963,Belém,Caucaia,CE,2258,6,8000,5791,2025-06-01,Pendente
+964,Belém,Caxias do Sul,RS,1511,1,8000,553,2025-06-02,Pendente
+965,Florianópolis,Vitória da Conquista,BA,1180,6,8000,4075,2025-06-01,Agendado
+966,Brasília,Porto Alegre,RS,1218,2,8000,1520,2025-06-05,Entregue
+967,Recife,Aracaju,SE,1516,4,8000,1583,2025-06-01,Em Trânsito
+968,Florianópolis,Chapecó,SC,1192,2,10000,3852,2025-06-04,Pendente
+969,Belém,Belém,PA,1777,4,12000,3825,2025-06-05,Em Trânsito
+970,Florianópolis,Campina Grande,PB,1607,5,12000,8357,2025-06-01,Entregue
+971,Recife,Caruaru,PE,1403,7,12000,6294,2025-05-31,Em Trânsito
+972,Recife,Feira de Santana,BA,649,4,8000,3662,2025-06-05,Em Trânsito
+973,São Paulo,Macapá,AP,2147,3,10000,6984,2025-06-04,Entregue
+974,São Paulo,Belo Horizonte,MG,1399,4,8000,6567,2025-06-04,Agendado
+975,Belém,São Luís,MA,712,6,8000,4784,2025-05-31,Pendente
+976,Belém,Ananindeua,PA,1610,7,12000,11526,2025-06-03,Entregue
+977,Belém,Natal,RN,160,5,6000,1467,2025-05-29,Agendado
+978,Recife,Maringá,PR,1465,3,6000,4998,2025-06-03,Entregue
+979,Florianópolis,Ribeirão Preto,SP,1946,2,12000,1981,2025-06-05,Em Trânsito
+980,Belém,Boa Vista,RR,2159,2,12000,7278,2025-05-31,Agendado
+981,Belém,Maceió,AL,240,1,6000,5077,2025-06-01,Entregue
+982,Brasília,Caxias do Sul,RS,406,2,6000,2602,2025-05-31,Pendente
+983,Belém,Belém,PA,271,7,8000,2252,2025-05-30,Entregue
+984,Florianópolis,Brasília,DF,1433,1,6000,1188,2025-06-01,Entregue
+985,Brasília,Macapá,AP,1849,1,12000,10623,2025-06-05,Pendente
+986,São Paulo,Blumenau,SC,2369,7,6000,5128,2025-06-02,Entregue
+987,Recife,Boa Vista,RR,1283,6,10000,3962,2025-06-05,Pendente
+988,Florianópolis,Blumenau,SC,1249,4,12000,8372,2025-06-03,Agendado
+989,Belém,Macapá,AP,72,6,6000,4258,2025-05-30,Pendente
+990,Belém,São Luís,MA,1778,5,6000,4210,2025-06-04,Pendente
+991,Brasília,São Luís,MA,207,6,12000,10365,2025-06-01,Agendado
+992,São Paulo,Caxias do Sul,RS,2173,6,10000,6678,2025-06-04,Pendente
+993,Recife,Curitiba,PR,2308,4,12000,7657,2025-06-05,Agendado
+994,Recife,Macapá,AP,1215,2,6000,725,2025-06-01,Agendado
+995,Florianópolis,Porto Alegre,RS,86,7,8000,2501,2025-05-29,Pendente
+996,São Paulo,Belém,PA,676,1,6000,789,2025-06-01,Em Trânsito
+997,Recife,Niterói,RJ,2359,5,10000,3624,2025-06-03,Pendente
+998,Recife,Caucaia,CE,552,3,12000,2336,2025-05-31,Pendente
+999,São Paulo,Goiânia,GO,2295,6,12000,3795,2025-06-02,Agendado
+1000,Brasília,Contagem,MG,339,2,10000,9860,2025-05-30,Em Trânsito
